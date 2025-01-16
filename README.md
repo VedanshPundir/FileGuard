@@ -4,7 +4,7 @@
 
 The **FileGuard** is a file integrity monitoring tool written in Java. This tool helps monitor and validate the integrity of files in a specified directory. It computes hash values (SHA-256) of the files, saves them, and then compares these hashes to detect any changes in the files. This can be used to detect unauthorized file modifications, ensuring data integrity.
 
-![Project Image](project-image.png)
+![Project Image](dash.png)
 
 
 ## Features
